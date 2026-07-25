@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+embeddings_cache.db
+.venv/
+venv/
+.env

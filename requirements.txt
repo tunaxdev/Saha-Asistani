@@ -1,0 +1,2 @@
+foundry-local-sdk-winml>=1.2.3
+pdfplumber>=0.11.10
