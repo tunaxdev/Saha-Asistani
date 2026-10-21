@@ -110,7 +110,7 @@ def main():
     chat_model.load()
     chat_client = chat_model.get_chat_client()
 
-    print("\n✓ Hazır! Commander C200-C300 kılavuzu hakkında soru sorabilirsin.")
+    print("\n✓ Hazır! docs/ klasöründeki belgeler hakkında soru sorabilirsin.")
     print("  Çıkmak için 'quit' yaz.\n")
 
     # Soru-cevap döngüsü

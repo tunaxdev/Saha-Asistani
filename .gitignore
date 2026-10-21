@@ -4,3 +4,7 @@ embeddings_cache.db
 .venv/
 venv/
 .env
+
+# Your own manuals / extracted documents (not distributed with the repo)
+docs/*
+!docs/.gitkeep
